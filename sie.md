@@ -772,3 +772,24 @@
 
 ### conversion is not taxable
 - taxable event arises only when investor sells acquired shares (i.e. after conversion)
+
+---
+
+# debt instruments
+## treasury securities
+- __Treasuries__ - securities issued by US govt
+	- exempt from registration (like those issued by any govt agency)
+- safest type of fixed-income invstmt
+- virtually no credit risk
+- types
+	- marketable (negotiable)
+	- non-marketable (non-negotiable)
+- marketable instruments
+	- T-bills
+	- T-notes
+	- T-bonds
+	- T-STRIPS
+	- TIPS (inflation-protected)
+	- CMBs (cash mgmt bills)
+
+## T-notes, T-bonds
