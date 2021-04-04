@@ -793,3 +793,181 @@
 	- CMBs (cash mgmt bills)
 
 ## T-notes, T-bonds
+- interest-bearing sxties
+- pay fixed IR semiannually
+  - investors receive face value at maturity
+- T-notes: 2-10yr maturity
+- T-bonds: >10yr maturity
+- minimum denominations: $100
+  - generally: par value $1000
+- interest received on T-notes, T-bonds taxed at federal level
+  - exempt from state taxation
+  - exempt from local taxation
+
+## Treasury Inflation-Protected Securities (TIPS)
+- bond investors are mainly concerned with inflation
+  - principal takes years to return
+  - inflation diminishes purchasing power of returned funds
+- __TIPS__: interest-bearing marketable sxties
+  - fixed IR
+  - principal on which interest paid may vary based on CPI
+	- consumer price index
+- during inflation, CPI rises; TIPS principal value increases
+- during deflation, CPI declines; TIPS principal value decreases (floor at $1000)
+- available in 5/10/30-yr terms
+- denominated in $100 increments
+- interest received taxed at federal, not state/local levels
+
+> e.g. 4% TIPS @ principal $1000
+> say inflation, principal adjusts to $1030
+> interest for next semiannual payment is fixed IR based on inflation-adjusted principal
+> 4% * 1030 = $41.20
+> next semiannual payment is $41.20/2 = 20.60
+
+## Non interest-bearing securities
+- interest-bearing: T-bonds, T-notes, TIPS
+
+### Treasury bills
+- short-term sxties maturing in <=1yr
+- available maturities:
+  - 1mo (4wks)
+  - 3mo (13wks)
+  - 6mo (26wks)
+  - 1yr (52wks)
+- sold in minimum denominations of $100, increments of $100
+- sold at discount from face value
+- make no semiannual interest payments
+- interest = `face value at maturity - purchase price`
+  - discount/non-interest-bearing
+- quoted on _discounted yield basis_
+  - `yield ~= % discount from sxty face value`
+- inversely related: price ~= 1/yield 
+
+> bid = 1.12 discount yield
+> ask = 1.11 discount yield
+> bid (higher yield) represents lower price
+
+- __bond equivalent yield__: compares T-bill yield with other interest-bearing sxties' yield 
+  - interest earned is on amt invested, not face amt
+  - T-bill bond equivalent yield is always > discount yield
+
+## Stripped securities
+### Treasury STRIPS
+- Separate Trading of Registered Interest and Principal Securities
+- BDs can purchase T-notes, T-bonds; separately resell coupon, principal payments as zero-coupons (discounted sxties)
+  - must first request treatment through a federal reserve bank
+- `interest = investor's purchase price - bond's face value`
+- quoted on yield basis (not pctage of par value)
+
+### Cash Management Bills (CMBs)
+- unscheduled/short-term debt offerings used to smooth out Treasury cash flows
+- issued at discount, mature at face amount
+- durations as short as 1 day
+
+## US Treasury Sxties Auctions (Primary market)
+- Treasuries are sold through US Treasury-conducted auctions
+- sxties firms submit bids (competitive tenders)
+  - bid = { price/yield at which firm willing to buy }
+- individuals submit bids (non-competitive tenders)
+  - filled first
+  - bidders must agree to accept yield/price as determined by auction
+- single price auction process: all auction winners pay lowest price of accepted competitive tenders
+
+## agency securities
+- issued/gtd by federal agencies & government-sponsored enterprises (GSEs)
+- not direct obligations of the US govt
+  - still low credit risk
+- yields lightly higher than those of corresponding US Treasuries
+- quoted in 1/32nds of a point
+
+### federal agencies
+- direct extensions of US govt
+- includes Government National Mortgage Association (GNMA)
+
+### Government-sponsored enterprises (GSEs)
+- publicly chartered/privately owned organizations
+- provide low-cost loans for certain population segments
+- issue sxties through selling group of dealers
+  - offering's proceeds provided to bank/other lender
+  - bank lends money to individuals seeking financing (homeowners, farmers)
+- e.g.:
+  - Federal Farm Credit Banks (FFCBs)
+  - Federal Home Loans Banks (FHLBs)
+
+### Federal Farm Credit Banks - FFCBs
+- provide funds for orgs making agricultural loans to farmers
+  - banks for cooperatives
+  - intermediate credit banks
+  - federal land banks
+- interest received subject to federal tax, exempt from state/local
+
+### Federal Home Loan Banks - FHLBs
+- provide liquidity for savings&loans institutions needing extra funds
+  - e.g. for seasonal demand for money
+- interest received subject to federal tax, exempt from state/local
+
+## Mortgage-backed securities
+- secured by pools of home mortgages
+- issued by GNMA, FNMA, FHLMC
+
+### pass-through certificates
+- most common sxty issued by govt agencies: mortgage-backed pass-through certificate
+- creation:
+  - agency purchases pool of mortgages w/ similar IRs, maturities
+  - interests in pool sold to investors as pass-through certificates
+- 1 cert = undivided interest in pool
+  - owners entitled to share in cash flow generated by pooled mortgages
+- homeowners make mortgage payments on monthly basis
+  - payments passed to investors every month
+  - payment includes a portion of both interest & principal
+
+### federal home loan mortgage corporation (FHLMC)
+- provides funds to federally insured savings institutions
+  - to finance new housing
+- raises money for operations through issuing:
+  - mortgage-backed bonds
+  - pass-through certificates
+  - guaranteed mortgage-backed certificates
+- backed by other agencies/mortgages purchased by Freddie Mac
+- interest received subject to federal, state, local taxes (fully taxable)
+
+### federal national mortgage association (FNMA)
+- raises money buy:
+  - Federal Housing Administration (FHA)
+  - Veterans Administration (VA)
+  - conventional residential
+- mortgages from lenders (banks, savings&loans assocs)
+  - backed by authority to borrow from US Treasury (not US govt)
+- interest received subject to federal, state, local taxes (fully taxable)
+
+### government national mortgage association (GNMA)
+- wholly-owned corp. operating in HUD
+- finances residential housing
+- interest received subject to federal, state, local taxes (fully taxable)
+- issues MBS, participation certificates, and modified pass-through certificates
+- modified pass-through certificate
+  - backed by pool of FHA and/or VA residential mortgages
+  - mortgage payment = { principal, interest }
+	 - portion of payments passes through to investors who purchased GNMA certs
+	 - GNMA guarantees monthly payments to cert owners, even if not collected from homeowners
+- __prepayment risk__ - average life of mortgages in pool tends to be shorter than 25-30yr maturity, since:
+  - IRs may decline
+  - prepayments, foreclosures, refinancings
+
+#### prepayment risk
+- MBS have usual fixed-income risks:
+  - IR risk
+  - credit risk
+  - liquidity risk
+- and _prepayment risk_
+  - homeowners may pay off mortgages early
+  - when IRs fall, homeowners incentivized to refinance, pay off existing mortgages
+
+## municipal bonds
+- issued by US states/territories, public agencies
+- some level of default risk
+- interest received typically exempt from federal tax
+
+### types of municipal bonds
+k
+
