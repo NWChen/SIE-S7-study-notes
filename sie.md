@@ -1162,6 +1162,1308 @@
 - Federal Reserve attempts to influence fed funds rate, by purchasing/selling govt sxties in secondary mkt
 - LIBOR - average rate banks charge each other on loans for London deposits of Eurodollars
 
+---
+
+# Investment returns
+- measuring performance on stock/bond investments
+
+## Return on equity investments
+### Dividends
+- dividends paid on a per-share basis
+- _declaration date_ - date on which dividend authorized
+- _payment date_ - date on which declared dividend paid
+	- dividends usually paid quarterly, taxable in year paid/received
+- _record date_ - date on which investor must own stock to be entitled to receive the dividend
+
+### Ex-dividend rule
+- ex-dividend date = date on which stock begins to trade w/o its dividend
+> e.g. stock paying $.50 dividend closes at $20/share on day before ex-date
+> opens at price of $19.50 on ex-dividend date
+
+### Due bills
+- if trade executed prior to ex-dividend date, then buyer entitled to dividend
+- cash settle - same date
+	- for cash settlement trade; ex-dividend date is business day following record date
+- co. can also pay dividends in stock, instead of cash
+> e.g. investors buys 100shares $WXYZ for $80/share
+> cost basis = $8000
+> $WXYZ declares a 10% stock dividend
+> investor entitled to addtl 10 shares (100 x 10%)
+> stock dividends not taxable until sold
+> investors holds an increased #shares at reduced px/share
+> IRS requires investor to adjust cost basis:
+> original = $80/share ($8000/100 original shares)
+> adjusted = $72.72/share ($8000/110 original shares)
+
+### Current/dividend yield
+- annualized dividend / current mkt px
+> e.g. $XYZ trading at $50/share
+> $XYZ pays quarterly dividend of $0.25
+> current yield is $2%
+
+## Return on bond investments
+- dollar amount of interest paid by band annually = coupon rate x par value
+
+## Prices and yields
+- as IRs rise, value (px) of existing bonds falls
+	- demand for existing bonds offering lower IRs declines
+
+### Calculating bond yields
+#### nominal yield
+- equal to coupon rate, regardless of price paid
+	- ignores fact that bond may have been purchased at premium/discount
+
+#### current yield
+- based on bond's current mkt price 
+- measures what a bond investor receives each year based on (potential) purchase price
+- `current yield = (annual interest / current market price)`
+- nominal yield is fixed
+
+> price paid = $900 (discount)
+> annual interest $100
+> current yield = $100 / $900
+> = 11.11%
+
+#### yield-to-maturity
+- takes into account everything an investor receives on a bond from time of purchase until maturity
+- _basis_ = _yield_ = _yield to maturity_
+- price < nominal yield < current yield < yield to maturity
+- if an investor purchases a bond at par:
+	- nominal yield = current yield = yield-to-maturity
+- if an investor purchases a bond at discount:
+	- nominal yield < current yield < yield-to-maturity
+- if an investor purchases a bond at premium:
+	- yield-to-maturity < current yield < nominal yield
+
+### call provisions
+- allows issuer to redeem/call outstanding bonds before they reach their final maturity
+- if called, issuer must pay bondholders more than par value to compensate them for early bond redemption
+	- call premium - additional amount 
+- investor receives more than par, and prior to bond's expected maturity
+
+### yield-to-call
+- bond yield if called prior to maturity
+- yield-to-worst = min(yield-to-call, yield-to-maturity)
+- if bond trading at discount:
+	- YTM < YTC
+- if bond trading at premium (callable at par):
+	- YTC < YTM
+
+## cost basis/capital events/return of capitalA
+- unrealized capital gains/losses have no impact on tax situation
+- __cost basis__ - total amount an investor paid to purchase a sxty
+	- includes commissions, fees
+	- on reinvestment of sxty distributions, total cost basis of investor increases (must pay tax on distribution)
+- __capital gains__ - when invstmt sold for greater value than cost basis
+	- short-term: held <=1yr, taxed at marginal (ordinary income) tax rate
+	- long-term: held >=1yr, taxed at min(long-term, 20%)
+- __capital losses__ - generated when ivnstmt sold for lower value than cost basis
+- __return of capital__ - when investor receives portion of original invstmt back
+	- not a taxable event
+	- any return of capital lowers cost basis (now has less money at risk)
+
+## measuring return
+### total return
+- total return = ((ending value - beginning value) + investment income) / (beginning value)
+> e.g. purchase 1000 shares $VPN at $25/share
+> $VPN pays $0.80 annual dividend
+> after 1yr, $VPN mkt value declines to $23/share
+> total return = ((23k - 25k) + 800)/25k = -4.8%
+
+### inflation-adjusted
+- inflation-adjusted RoR = actual return - rate of inflation
+> $ABC bond has nominal yield of 8%
+> rate of inflation = 3%
+> inflation-adjusted return = 8% - 3% = 5%
+
+### risk-free return
+- return on an investment with no risk
+- e.g. T-bill or 10yr treasury
+
+### risk-adjusted return
+- return of invesmtent wrt risk assumed to attain it
+
+## averages/indexes
+### dow jones
+- Dow Jones Composite Average
+- 65 stocks
+- DJIndustrialA (30), DJTranspotationA (20), DJUtilityA (15)
+
+### S&P 500
+- broaded measure of mkt
+- industrials (400), transportations (20), financials (40), utility (40)
+
+### others
+- NYSE Composite Index
+- Wilshire Associates Equity Index (broadest of all indexes/averages)
+- other equity indices
+	- major market (20)
+	- nasdaq composite
+	- nasdaq 100 (largest-cap on Nasdaq)
+	- Russell (2000 small-caps)
+
+### debt/bond indices
+- Barclays, Bond Buyer
+
+---
+
+# Packaged products
+## types of investment companies
+- Invstmt Co. Act of 1940 - three different types of invstmt co.s
+	- face-amount certificate co.
+	- unit investment trust (UITs)
+	- management co.
+		- open-end (mutual fund) and closed-end
+
+## Open-end management companies (mutual funds)
+- Open-end mgmt co.s  - most popular type of invstmt co
+- Mutual fund lets investors w/ similar goals pool money & invest in a pool of sxties
+
+### mutual fund advantages
+- diversification
+	- >75% of assets must be invested in diversified manner
+		- <=5% of invested assets in any 1 company
+		- <=10% of voting stock of any 1 company owned
+- professional management
+	- IA - management company
+	- IAR - works for the IA
+- liquidity
+	- mutual fund shares are not traded throughout the day
+	- issued by/redeemed back to fund itself
+- exchanges at net asset value
+	- shareholders can exchange shares in one fund for shares in another at same NAV (in same fund family)
+- convenience
+	- income dividends/capital gains can be reinvested automatically
+	- automatic fund deduction from checking account
+- recordkeeping
+	- semiannual/annual reports show purchases, redmeptions, EOY tax summaries
+- SEC registration
+	- fund must have minimum net worth $100k
+	- and >100 shareholders
+- prospectus
+	- primary disclosure doc
+- prospectus delivery
+	- clients must receive it before any purchase orders processed
+- mutual fund terminology
+	- sales charge/load
+	- NAV/bid/redemption px
+	- public offering px (POP) = NAV + sales charge
+- stmt of addtl info
+	- not required to be given to any person interested in purchasing shares
+
+### mutual fund structure
+- BoD
+- invstmt adviser - paid mgmt fee based on AUM not performance
+- custodian bank - maintains assets, collects dividends/interest from them
+- transfer agent - recordkeeping, issuing new shares, redemptions
+- principal underwriter (wholesaler/distributor) to sell shares to public
+
+#### distribution methods
+1. fund -> principal underwriter -> { ... dealers ... } -> investors
+2. fund -> principal underwriter -> investors
+3. fund -> investors
+
+#### categories of mutual funds
+- aggressive growth - invest in small companies
+	- participate in IPOs of their shares
+- growth - capital appreciation
+	- above-average growth in share price
+- specialized/sector
+- international/global
+- equity income
+	- high dividends wrt mkt pxs
+	- mature co.s w/ less potential for capital appreciation, but less likely to decline in value than growth co.s
+- growth/income - both capital appreciation and current income
+- bond funds - current income, preservation of capital
+	- bonds only
+	- credit/call/reinvestment/IR risk (same as bonds)
+- index funds
+	- passively managed, so lower mgmt fees
+- value funds - undervalued/restructuring co.s - for long time horizons
+- balanced funds - across stocks, bonds, money mkt (cash equiv)
+- asset allocation - like balanced, but fund managers determine pctage of fund assets to invest in each category based on mkt conditions
+- money mkt funds - short-term debt (money mkt) instruments
+
+## buying/selling mutual fund shares
+- purchased at Public Offering Price - POP
+- redeemed/sold at intrinsic NAV
+- sales charge = (POP - NAV)
+- client redeeming/selling shares receives next calculated NAV
+
+## NAV and charges 
+- NAV = (total net assets) / (# outstanding shares)
+- total net assets = (current mkt px + cash - total liabilities)
+- _forward pricing_ - orders to buy/sell are computed at next computed px
+- _settlement of transactions_ - mut fund transactions settle same-day as purchase/redemption
+	- ex-dividend date determined by fund/principal underwriter
+	- usually day after record date
+- _sales charge_ = (POP - NAV) / POP
+- _backend loads, contingent deferred sales charges_ - investors can buy @ NAV, mut fund assesses sales charge when investors redeem
+	- decreasing charge as investor owns shares longer
+	- CDSC - there may be no sales charge at redemption if investor holds shares long enough
+- _no-load_ - mutual fund with no sales charge, POP = NAV
+	- front-end load must be below 25bps (.25%) of average annual fund NAV
+
+## fees and charges
+- 12b1 - mut funds pay for distribution expenses through deductions from portfolio assets
+	- maximum fee: annualized 1% of fund assets
+- service fees - charges deducted under 12b1, pay for personal svcs/shareholder acct maintenance
+	- e.g. trailer - trailing commission fee paid to RR
+- administrative, e.g. payments to custodians/transfer agents
+- fee disclosure
+- expense ratio = (total expenses) / (average net assets) 
+	- no-load funds have low expense ratios
+
+## classes of shares
+- _class A_ - small 12b1 fees
+	- disadvantage - not all investor's money directed in portfolio
+- _class B_ - no up-front sales charges, higher 12b1s
+	- CDSC applies if shares redeemed before certain period
+- _class C_ - assess up-front sales charge, and 12b1 fee ~= 1% of fund's assets
+	- investor may also pay CDSC if shares sold within 12-18mo after being purchased
+
+## reducing sales charges
+- for class A shares:
+- _sales breakpoint_ - reduced sales charge, e.g. when large sum of money invested with one fund family
+- _breakpoints_ - level at which sales charge is reduced (volume discount)
+- _adjusted POP_ - fund offering px based on reduced sales charge pctage
+	- _POP_ = (NAV) / (100% - sales charge %)
+
+> e.g. XYZ fund has NAV=$10
+> person invests $100,000 into fund
+> entitled to 3.25% breakpoint
+> adjusted offering px = ($10) / (100% - 3.25%) = $10.34
+> investor can purchase $100k/$10.34 = 9671.18 shares
+
+- _letter of intent_ - qualifies investor for a discount made available through discounts, w/o initially depositing entire required amount	- non-binding
+- _rights of accumulation_ - investor can receive cumulative quantity discounts when purchasing mutual fund shares
+	- reduced sales charge based on total invstmt within family of funds
+- fund must offer both breakpoints and RoA to assess max sales charge of 8.5%
+- funds usually allow investors to reinvest dividends/other distirbutions at NAV w/o paying sales charge
+
+## dollar cost averaging (DCA)
+- buy more shares when px low; fewer shares when px high
+- redemption - shares redeemed at NAV
+	- redemption feeds of .5% to 2%
+
+## systematic withdrawal plans
+- investors receive regular payments on monthly/quarterly basis
+	- payments from dividends, then capital gains
+- fixed-dollar, fixed-pctage, or fixed-time options
+
+## prohibited sales practices
+- breakpoint sales
+- no discounts on class B shares - only class As qualify for breakpoints
+- switching shares - mvmt b/w different fund families results in a new sales charge
+- exchanging shares - no sales practice issue
+	- IRS considers this sale of one fund's shares, purchase of another fund's shares
+
+## other types of invstmt co.s
+### face-amount certificate companies
+- issues debt certs that pay a predetermined rate of interest
+	- _surrender value_ - lesser amt received if certs cashed in early
+
+### unit investment trusts
+- formed under _indenture_
+- _trustees_, not BoD
+- invest in fixed portfolio of income-producing sxties (bonds/preferreds)
+- only issue redeemable sxties - shares of SBIs
+	- sold in minimum denominations of $1k
+- SBIs transactable on secondary mkt
+	- 1 unit = 1 undivided interest in UIT portfolio
+- supervised, but not managed, invstmt co.s
+	- no mgmt fees
+
+### closed-end invstmt co.s
+- one-time issuance of common shares to public
+	- may also issue senior sxties (preferreds/bonds)
+- shares in secondary mkt
+	- can be purchased on credit (marginable)
+- investors pay commissions, not sales charges
+	- closed-end funds can trade at discount/premium to NAV?
+
+---
+
+# Alternative Investments
+## ETFs
+- interest in underlying basket of sxties mirroring an index
+- passive: track index, match market
+- active: select sxties in portfolio by professional manager
+
+### Fee Considerations
+- passive mgmt fees are lower than cost of active mgmt
+	- purchasers of ETF shares pay commissions (not sales charges, like on mutual fund shares)
+- lower expenses than mutual funds
+- shares may be sold short and purchased on margin
+
+### Short-term ETF variations
+- reset portfolios daily to meet objectives
+	- may not provide true tracking of underlying index/benchmark over longer periods
+- inverse ETFs - increase in value when mkt drops, decrease when mkt rises
+	- often used by investors with long positions as a hedge against a bear mkt
+- leveraged ETFs - provide investors with multiple of return of benchmark index
+	- using debt instruments/derivatives
+
+## Exchange-traded notes (ETNs)
+- unsecured debt sxty
+	- pays return linked to underlying mkt index/benchmark
+- don't make interest payments
+	- pay holder amt based on performance of underlying index/benchmark
+	- maturities 10->30yrs
+- issuer credit risk
+	- created by bank; are unsecured debt obligations of issuer
+	- risk of credit quality of issuer
+
+### Fee Considerations
+- _indicative value_ - reference value of benchmark minus daily investor fee
+- brokerage commissions that investors may pay when buying/selling ETNs
+
+## Hedge funds
+- private investment pool - don't have to register with SEC
+	- often sold under Reg D (private placement) exemption
+- illiquid
+	- don't have to publish NAV daily
+	- can impose withdrawal restrictions
+	- offer investors limited partnership units 
+- potential use of leverage
+- high minimum initial invstmt requirements
+- unregulated, more complex
+- compensation
+	- mutual funds must assess sales charge <=8.5% of fund's POP
+	- hedge funds often do 2% management, 20% of profits
+
+## Private equity funds
+- unregulated and illiquid
+- like hedge funds, not generally available to accredited investors
+
+## Real estate investment trusts (REITs)
+### Regulation
+- securities act of 1933 regulates REITs as securities
+	- prospectuses must bes ent to investors who purchase shares offered to public in primary mkt
+
+### Investment attributes 
+- income received from tenant rent 
+	- tenant leases real estate owned by the REIT
+- mortgage
+	- earn income from IR spread b/w mortgages & borrowed funds
+- equity
+	- own & operate income-producing real estate
+- hybrid
+	- both mortgage and equity
+
+### Liquidity
+- Reg D - private placements unregistered w/ SEC
+	- illiquid, difficult to price
+- registered & listed (exchange-traded each business day)
+	- reported on customer acct statements at their current mkt value/share
+- registered & unlisted
+	- reported on customer statements at estimated mkt value/share
+
+### Tax treatment
+- no double taxation on dividends REIT pays to shareholders
+	- income only taxed once (at investors' levels)
+- unlike DPPs, REITs don't pass-through operating losses
+- special tax treatment: satisfiable by three income tests:
+	- >=95% of gross income derived from dividends/interest/rents from real property
+	- >=75% of gross income derived from real property income (rents/interest/etc.)
+	- <=30% of gross income derived from sale/disposition of stock/sxties held for <12mo
+- investors get stable dividend, taxed as ordinary income deductible from tax
+	- 90% distribution on taxable income
+
+### Direct participation programs (DPPs)
+- results of business venture directly flow through to investors
+	- cash flow, profits, losses
+- limited partnership:
+	- minimum of 2 partners (general partner, >=1 limited partner)
+	- GP manages program, contribuets at least 1% of capital
+	- LP is passive, contributes large amount of capital
+
+#### advantages
+- favorable tax treatment - income/loss allocated directly to partners
+- passive income distributed is taxed as ordinary income
+- business pays no tax
+- LPs receive more income (possibly) than from a profitable corporation (since those dividends are paid as after-tax distributions)
+	- 20% of income passed through partnership is deductible (excluded from tax)
+- limited liability (cannot lose more than amount they have at risk)
+- diversification (invest in assets w/ little/no correlation to stock/bond mkts)
+
+#### disadvantages
+- lack of control (for LPs)
+- illiquidity
+- tax issues
+- possible capital call
+
+#### general partners
+- have unlimited liability
+- fiduciary relationship to LPs in programs
+
+### limited partners
+- don't take active role in management of programs
+	- can lend to partnership, inspect books, compete
+
+### offering and tax treatment
+- public/private offering
+	- public: GP hires underwriter/syndicator to mkt program to public, register DPP's interest w/ SEC
+		- still unlisted/illiquid
+		- max underwriting compensation for public offering is 10% of gross dollar amount of sxties being sold
+	- private: Reg D (under Securities Act of 1933), exempt from registration
+- passive activities - invstmts in DPPs, rental activities
+	- losses generated by passive activities may only be deducted against income from passive activities
+
+## Types of Limited Partnerships
+### Real estate
+- land is a commodity with fixed supply, increasing demand
+	- raw land - no depreciation deductions, no periodic income, capital appreciation after selling property
+	- new construction - capital appreciation or cash flow from rent (leasing to tenants)
+- existing properties - predictable, certain returns 
+	- benefits - cash flow from rentals, depreciation allowances available
+- government-assisted housing
+	- most federally subsidized housing programs are part of Section 8, administered by govt agency HUD
+	- costs for construction/rehabilitation/acquisition of low-income housing qualify for tax credits
+
+### Oil and gas
+- exploratory - high-risk
+- developmental - leases in proven areas
+	- high deductibility
+	- lower risk, lower potential return
+- balanced
+	- both exploratory and developmental
+- income
+	- acquires interest in existing producing wells
+	- for risk-averse
+
+---
+
+# Options
+- derivative sxty - contract whose value derived from mvmt of underlying stock/index/currency/asset
+- _long_ - buyer/owner/holder of option
+	- pays premium (contract's mkt px)
+	- has right to exercise
+	- max loss = premium paid (when option expires worthless)
+- _short_ - writer/seller of option
+	- receives premium
+	- assumes obligation if contract exercised
+	- max gain = premium received (when option expires worthless)
+
+## types of options
+### call
+- owner has right to buy underlier
+	- call buyer can _call_ sxty away from writer at fixed px
+- call writer is obligated to sell sxty at fixed px if owner exercises
+	- call buyer is bullish on underlier
+	- call seller is bearish on underlier
+
+### put
+- owner has right to sell underlier
+	- put buyer can _put_ security to writer at fixed px
+- put writer is obligated to buy sxty at fixed px if owner exercises
+	- put buyer is bearish on underlier
+	- put seller is bullish on underlier
+
+### contract components
+- underlier; contract expiration; exercise/strike px; type
+> e.g. long 1 call option on $XYZ w/ May expiration, exercise px=$30, premium=3
+- 1 equity option = right to buy/sell 100shares (1 round lot) of underlying stock
+- expiration month - if option not exercised/liquidated prior to expiration, it ceases to exist (expires)
+- exercise/strike price - px at which call owner may buy stock from writer, or put owner may sell stock to writer
+- premium - 3pts = $3/share; for 100 shares, purchase px = $300
+	- amount buyer pays to sellr for rights conveyed by contract
+
+### premium
+- px determined in secondary mkt
+- vary with changes in prices of underlying sxties
+- influenced by:
+	- mkt px of underlier vs. strike px of option contract
+	- time remaining until option expiration
+	- volatility of underlier
+
+### intrinsic value
+- `option premium = intrinsic value + time value`
+- call moneyness
+	- ITM - stock mkt px > option strike px
+	- ATM - stock mkt px = option strike px
+	- OTM - stock mkt px < option strike px
+- put moneyness
+	- ITM - stock mkt px < option strike px
+	- ATM - stock mkt px = option strike px
+	- OTM - stock mkt px > option strike px
+- intrinsic value >= 0
+	- ITM - IV > 0
+	- ATM - IV = 0
+	- OTM - IV = 0
+- buyers prefer options to gain IV (they own assets; want them to increase in value)
+- writers prefer options to lose IV - moneyness represents potential obligation if contract exercised
+	- exercise = assigned to writer
+
+### time value
+- only ITM options have IV
+- ATM/OTM options only have time value (component of premium)
+- ITM options
+	- `time value = premium - intrinsic value`
+
+> $XYZ May 30 call has premium=3; $XYZ at $32/share
+> premium = (32-30)pts IV + 1pt TV = 3pts
+> IV > 0, option is ITM
+
+> $XYZ May 30 call has premium=3; $XYZ at $30/share
+> premium = 0pts IV + 3pts TV
+> IV = 0, 30call option = $30 mkt px, option is ATM
+
+> ($XYZ Aug 30 call) trades at higher premium than ($XYZ May 30 call)
+> Aug option has more life remaining
+> TV scales with time; at expiration, TV = 0
+
+## breakeven
+- _breakeven pt_ - px at which stock must be trading s.t. investor neither makes/loses money
+- _call UP, put DOWN_
+	- for calls - breakeven = (strike px + premium)
+	- for puts - breakeven = (strike px - premium)
+- for options buyer: breakeven = amt underlying stock must move for buyer to recapture premium paid
+
+	- call buyer breakeven = strike px + premium
+	> buy $XYZ May 50 call at 5
+	> breakeven = $XYZ at $55
+
+	- put buyer breakeven = strike px - premium
+	> buy $XYZ May 45 put at 4
+	> breakeven = $XYZ at $41
+
+- for options seller: breakeven = amt seller can afford underlier to move, because they received the premium
+
+	- call seller breakeven = strike px + premium
+	> sell $XYZ May 50 call at 5
+	> breakeven = $XYZ at 55
+
+	- put seller breakeven = strike px - premium
+	> buy $XYZ May 45 put at 4
+	> breakeven = $XYZ at 41
+
+### speculation vs. hedging
+- _speculation_ - generating profit based on anticipated price change in sxty value (on which investor has no existing position)
+	- e.g. buying call in anticipation of underlier px increase
+	- e.g. buying put in anticipation of underlier px decrease
+	- e.g. writing call/put in anticipation that option will expire worthless
+- _hedging_ - purchasing options to protect against risk of adverse movement in underlier value
+	- investor who owns stock can buy put option to hedge risk of stock decline
+		- put purchase locks in sales px (= strike px) if underlier falls in value
+
+## options events
+### liquidation (trade/close-out)
+- alternative to exercise
+- investor (buyer/seller) executes opposite transaction on same contract
+> e.g. investor buys (opens) `$XYZ May 30 call at 3`
+> $XYZ increases to $40
+> investor liquidates position (closes) for adjusted premium of 11 (=10pts IV + 1pt TV)
+> investor originally paid $300
+> sold for $1100
+> gain = $800
+
+### exercise
+- american style - exerciseable any time up to expiry day
+	- used by all listed equity options
+- european style - exerciseable only at specified point in time, usually on day of expiration
+	- used by index/currency options
+
+> long `$XYZ May 30` call
+> underlier trading at $38/share
+> call holder can exercise option & buy stock at strike px=$30/share
+> investor can sell stock in mkt at $38/share
+> gain = $8/share
+
+> long `$XYZ May 30` put
+> underlier trading at $22/share
+> investor can buy stock in secondary mkt at $22/share, sell at strike px of $30
+> gain = ($30 - $22) = $8/share
+
+### buyer's exercise/writer's assignment
+1. investor decides to exercise; notifies BD
+2. BD notifies OCC
+3. OCC receives exercise instructions from purchaser's BD, randomly issues exercise notice to BD whose account shows a short option position identical to long option position being exercised
+4. BD receives exercise notice, selects client to whom notice is assigned
+	- FIFO, random selection, or other fair/equitable method
+- settlement of options trades occurs in (T+1)
+- settlement of exercised option occurs in (T+2)
+	- involves purchase and sale of underlying stock
+
+### expiration
+- ATM/OTM option on expiry date - holder of contract has no incentive to exercise
+- contract expires worthless
+- expiration triggers max profit for call/put seller
+	- = premium initially received
+- expiration triggers max loss for call/put buyer
+	- = premium paid
+
+## OCC
+- guarantees all listed options
+	- protects options investors from counterparty risk
+
+### index options
+- equity options: exercise settlement = delivery of underlier
+- index options: exercise settlement = receipt/delivery of cash
+- index option seller must deliver cash to buyer
+	- cash = amt by which option is ITM
+	- = `contract strike px - index value`
+
+## hedging with options
+- investor long stock, fears stock will decline
+	- buy put option on stock -> creates long hedge
+	- put will gain value as stock declines
+	- loss on stock offset by gain on put
+	- breakeven - stock must rise by amt = (stock purchase px + premium paid)
+- investor short stock, fears stock will rise
+	- buy call option on stock -> creates short hedge
+	- call will gain value as stock rises
+	- loss on stock offset by gain on call
+	- breakeven - stock must decline by amt = `short sale proceeds - premium paid`
+
+## covered/uncovered positions
+- wrt seller of option position
+- firm margin dept must verify that a client who writes option is in a position to:
+	- deliver sxties (if short a call)
+	- deliver cash (if short a put)
+
+### covered call
+- call seller is obligated to sell(deliver) underlying stock if:
+	- buyer of call exercises the contract
+- call is covered iff seller owns underlier
+> investor long $XYZ, has written (is short) an $XYZ call option
+> anticipates $XYZ mkt px will not rise above strike px prior to expiration
+> hopes option will expire worthless
+> if contract expires, investor generates income from premium received + any potential cash dividend paid on stock
+> breakeven - investor can afford stock declining by amt = premium received = `stock purchase px - premium received`
+
+### uncovered call
+- investor selling $XYZ call but not owning $XYZ stock - uncovered call
+- uncovered call writer has unlimited max potential loss (no limit as to how high sxty px may rise)
+- investor effectively short stock (doesn't own deliverable if contract assigned)
+- risky position
+	- only can be created in a margin acct
+
+### covered put
+- seller of a put obligated to buy underlier if put buyer exercises contract
+- for put to be covered:
+	- seller must be short underlier OR deposit cash equal to strike px
+- if investor sells $XYZ put, but doesn't deposit sufficient cash, put is _uncovered_
+
+## P&L potential for various positions
+- long call - unlimited profit, limited loss
+- long put - limited profit, limited loss
+- short call (uncovered) - limited profit, unlimited loss
+- short put (uncovered) - limited profit, limited loss
+- covered call - limited profit, limited loss
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
