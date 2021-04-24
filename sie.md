@@ -1852,636 +1852,1165 @@
 - short put (uncovered) - limited profit, limited loss
 - covered call - limited profit, limited loss
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+
+# Offerings
+## Capital formation
+- raising capital by selling stocks and/or bonds through a formal offering
+
+### offering securities to investors
+- public offering - unlimited number of investors (retail & institutional) can participate, but regulatory costs and time to fulfill disclosure requirements of Sxties Act of 1933
+- private placements - institutional investors (pension funds, insurance co.s, VCs, PE investors) provide start-up capital in non-public offering
+	- faster & less costly than a public offering
+- IPO - issuer offers sxties to public for first time
+- follow-on - issuance of addtl capital through common stock sale for an already-public company
+	- post-IPO offering but still a primary distribution
+- FINRA rule 2269 - firm most notify solicitees for addtl shares being offered, when also recommending/trading those shares
+- combined/split offering - some shares offered by issuer, remainder offered by selling shareholders
+	- primary offering - shares sold by company (newly created)
+		- #outstanding shares increases
+	- secondary offering - existing shares sold by some of current shareholders
+		- selling shareholders receive proceeds, not issuer
+
+## underwriter/investment banker
+- BD that helps corp/municipality raise capital
+	- may assume risk by buying new issue from issuing corp. and reselling it to public
+- brings together issuer and potential buyers
+	- offerings proceeds may be new funds to issuer; or can refinance capital structure
+
+## underwriting commitments
+- _syndicate_ - group of BDs that conducts sale of a public offering 
+- _firm-commitment_ - acting as principal (at risk) - syndicate purchases entire offering from issuer, absorbs any unsold securities
+- _best-efforts_ - acting as agent - syndicate sells as much of new offering as able, find purchasers for issuer (not as principal for their own accounts)
+	- unsold portion returned to issuer
+	- offering may be cancelled if minimum contingency (min amt of capital to be raised) set
+- _all-or-none_ - best-efforts arrangement where:
+	- underwriters act as agents for issuer
+	- attempt to sell as much of offering as possible
+	- if entire offering not sold, all sales made must be cancelled, money must be returned to subscribers
+- _mini-maxi_ - min. threshold of sales must be met for offering to not be cancelled
+	- once min. met, addtl sales can be made up to specified max amt
+> e.g. corp. intends to sell $10mm of stock
+> co. requires at least 70% of offering sold based on capital needs
+> min. of $7mm stock must be sold or entire isue will be cancelled
+> once $7mm sale satisfied, underwriters continue to sell remaining $3mm w/o risk of offering cancellation
+- _standby agreements_ - corp. intends to sell addtl shares
+	- may conduct preemptive rights offering
+	- syndicate agrees to buy any shares not purchased by existing stockholders in a _rights offering_
+
+### market-out clause
+- stipulates syndicate can cancel agreement
+	- justifiable when marketing the issue is difficult/impossible
+- e.g. adverse event affecting issuer, or mkt disruption
+
+### shelf registration
+- allows issuers to sell addtl sxties on delayed/continuous basis
+	- allowable only for an amt reasonably sold within 3yrs after initial date of registration
+- allows issuer to market shares when conditions are most favorable
+
+## distribution of securities
+- BD intending to manage syndicate must perform due diligence
+	- on both issuer and issuer
+
+### syndicate
+- syndicate manager forms syndicate by inviting other firms to:
+	- participate in distribution
+	- share in liability
+- _syndicate letter_ - written agreement b/w manager & syndicate members
+- syndicate underwrites the offering
+- BD's syndicate desk assists in offering pricing
+	- helps build order book
+	- markets/distributes issue
+	- places stabilizing bid if necessary
+
+### selling group
+- other BDs that don't assume financial liability for the offering
+	- act as sales agents
+- shares not sold by selling group are retained by syndicate
+	- syndicate remain financially liable for unsold shares
+- BD must sign _selling group agreement_ to join
+- underwriters and selling group members are collectively _distribution participants_
+
+### determining public offering price (POP)
+- in public offering: px fixed, applies to all sales to public
+- IPO pricing factors (for underwriters)
+	- corporate earnings
+	- dividend payouts
+	- pxs of similar co.s in secondary mkt
+	- IOIs
+	- current mkt conditions
+- subsequent offering usually priced at small discount to current mkt px of existing shares
+
+### underwriting spread
+- `(amount paid by investing public) - (amount received by issuing corporation)`
+- spread = syndicate's gross profit
+	- shareable by manager, syndicate members, and selling group members
+- spread components
+	- manager's fee (paid for each share of offering)
+	- member's/underwriter's fee (paid to syndicate member assuming risk/liability for shares) - aka _additional takedown_
+	- concession (paid to firm that sells shares)
+- _total takedown_ - underwriter's fee + concession, paid to syndicate member when it sells offering shares
+
+### marketmaking
+- issuers are not FINRA-regulated
+- FINRA member firm can't be compensated by an issuer for:
+	- publishing a quote (incl. IOIs)
+	- acting as a market maker in a sxty
+
+## Securities Act of 1933 - Registration
+- attempts to prevent fraud in sale of new issues
+	- requires registration
+- info provided through _registration statement_
+	- public document that issuers file with SEC
+
+## registration process
+### pre-registration/pre-filing period
+- file registration statement
+	- balance sheet within 90 days of filing
+	- P&L for last few years
+	- amt of capitalization and use of proceeds
+	- funds paid to affiliates
+	- shareholdings of major holders
+	- prospectus
+- no discussions with customers
+- SEC doesn't guarantee truthfulness/accuracy of registration stmt
+
+### cooling-off period
+- 20-day waiting period
+- SEC reviews issuer's reg stmt for completeness, but not investment merits / pricing appropriateness
+- _red herring_ - a preliminary prospectus
+	- doesn't include final offering px (can include a range)
+- non-binding IOIs can be solicited
+- underwriter's can't accept advance payment for the new issue
+	- can't sell the new issue - deal not effective/has not been priced
+- under blue-sky laws, issuers issue sxties on per-state basis
+	- notification, coordination, or qualification
+- due diligence conducted
+- ends with _effective date_
+
+### post-effective period
+- public offering px (POP) set by underwriters
+- after effective date, deal is px'd and syndicate members notified of their allocation of shares
+- IOIs at this point are binding
+- BDs must provide final prospectus to primary mkt purchasers
+
+## disclosure requirements
+### aftermarket prospectus delivery requirement
+- for unlisted IPO - 90days
+- for unlisted follow-on offering - 40days
+- for IPO of exchange-listed sxty - 25days
+- for exchange-listed follow-on - no requirement
+
+### types of prospectus
+- statutory - condensed form of regular
+	- on offering declared effective - final version incl. POP, offering size, discounts to dealers, etc.
+- preliminary - red herring
+- mutual fund summary
+- free writing
+- offering/private placement memorandum
+
+### SEC registration-exempt securities
+- US govt/agency sxties
+- muni sxties
+- nonprofit-issued sxties
+- short-term corporate debt w/ maturity<=270days
+	- e.g. commercial paper
+- sxties issued by domestic banks, trust co.s
+- sxties issued by small business investment co.
+
+## exempt offerings
+### Regulation D
+- private placement of sxties exempt when
+	- issuer believes buyer is sophisticated investor
+	- buyer has access to same info as in prospectus
+	- issuer assured that buyer won't make a quick sale of sxties lock-up agreement
+	- sxties sold to no more than 35 non-accredited investors
+
+### accredited investor
+- financial institutions, large tax-exempt plans, private business development companies
+- directors, executive officers, or GPs of issuer
+- individuals who meet
+	- net worth of >=$1mm
+	- have gross income of >=$200mm or $300mm combined with spouseA
+
+### restrictive legend
+- sxties not registered w/ SEC, not eligible for resale unless legend removed
+
+## Rule 144
+- restricted & control stock
+- _restricted_ - unregistered, acquired through private placement
+- _control_ - officers/directors/>10%owners/etc.
+- imposes 6mo holding period for reporting co.
+	- 12mo holding period for non-holding co.
+	- no holding period for control stock
+- investor intending to sell restricted/control stock must notify SEC & sell within 90days
+	- iff amount of sale >5000shares & dollar amount >$50k
+- max sellable = `(1% volume limitation, average weekly volume over last 4 weeks)`
+- PIPE - private investment in public equity
+	- private placement that occurs after IPO, e.g. to accredited investors
+
+## Rule 144A
+- more liquid private placement market
+- after issuance, Rule144A equity/debt sxties can be offered/resold to QIBs
+- _QIB_ - qualified institutional buyer
+	- never an individual
+
+## Rule 145
+- sxties reclassifications are considered sales subject to Act:
+	- substitutions - issuer substituting 1 sxty for another
+	- mergers/consolidations - merger/consolidation for exchange of sxties of one corp. to those of another
+	- transfers of assets - transfer of assets from one corp. to another
+- not subject:
+	- stock splits
+	- reverse stock splits
+	- changes in par value
+
+## Rule 147, 147A
+- issuer must meet one of:
+	- >=80% consolidated gross revenues in state
+	- >=80% consolidated assets in state at end of last fiscal period before first sxties offering
+	- >=80% net proceeds from offering intended for use by issuer in state
+	- majority of issuer's employees based in state/territory
+
+## Muni bonds primary market
+- rules stablished by MSRB
+	- antifraud provisions of Sxties Act of 1933 apply
+- issuing general obligation (GO) bonds - bond issued are backed by taxes, must satisfy:
+	- voter approval
+	- debt ceiling limitations
+- issuing revenue bonds - backed by user fees generated by project
+	- feasability study
+- new issue underwritings
+	- _negotiated sale_ - issuer appoints underwriter
+	- _competitive sale_ - interested underwriters submit proposals through bidding process
+	- _municipal advisor_ - assists with offering, must be registered with MSRB
+- forming a syndicate
+	- syndicate manager maintains records, makes largest underwriting commitment:
+		- settlement date with issuer
+		- allotment of sxties/sale pxs
+		- syndicate members & their liability pctages
+	- keep track of all sales, unsold bonds
+		- syndicate letter - binds all member together / agreement among underwriters
+
+## Underwriting Documentation
+- _notice of sale_ - contains essential information an underwriter needs to submit a bid
+	- size of offering
+	- maturity date
+	- coupon rate
+	- details related to bidding process
+- _legal opinion_ - assures investors that issuer has legal right to issue bonds
+- _official statement_ - primary client disclosure document
+- _CUSIP_ application window
+	- for _negotiated sale_ - underwriter must apply before pricing information for issue is finalized
+	- for _competitive sale_ - underwriter must apply immediately after being awarded by issuer
+	- _financial advisor_ must apply no later than T+1 after dissemination of notice of sale
+
+## New issue confirmations
+- customer of a new issuance of a muni bonds must receive stmt of:
+	- amount of underwriting spread
+	- amount of fee received by BD for acting as agent for issuer
+	- initial reoffering px for each maturity in the offering?
+
+---
+
+# Orders and trading strategies
+
+## Trade capacity - broker and dealer
+- _broker (agent)_ - attempts to find other side of trade on behalf of client
+	- earns commission for efforts
+	- no commission earned if no trade executed
+- _dealer (principal)_ - firm buys/sells sxties from its own account/inventory
+	- _marketmaker_ - dealer who is always ready to buy or sell a specific stock
+	- provides two-sided quote:
+		- _bid_: px at which willing to buy stock
+		- _ask (offer)_: px at which willing to sell stock
+
+> quote: $19.90 - $20.25
+> dealer (marketmaker) willing to buy stock at $19.90/share
+> dealer (marketmaker) willing to sell stock at $20.25/share (to other dealers)
+> spread = $0.35 = profit for marketmaker
+
+- bids/offers usually posted in round lots (100-share multiples)
+- odd lot: <100 share unit
+
+### markup/markdown
+- firm adjusts pxs for retail customers when acting in dealer capacity
+- inside market: highest bid and lowest ask (of any market maker, in a given sxty)
+
+> e.g. client wants to sell stock to a dealer
+> firm may pay her $19.95 net per share ($0.05 markdown from mkt px)
+> e.g. client wants to buy stock
+> firm may offer to sell her shares at $20.26 ($0.06 markup)
+
+### 5% markup policy
+- `(markup/prevailing mkt price)` must <= 5% (as guideline)
+- factors in determining excessive markup:
+	- type of sxty (e.g. markup on common stock/LP unit > markup on bond)
+	- liquidity
+	- price (e.g. markup pctage increases as sxty px decreases)
+	- notional
+	- disclosure to customer
+	- historical pattern of markups
+	- nature of BD's business (e.g. offering research)
+
+#### proceeds transactions
+- when a customer directs a member firm to sell a sxty, and uses proceeds to buy a sxty
+- charge assessed on liquidation gets added to charge for subsequent purchase
+
+> e.g. customer instructs BD to sell $5000 $ABC, uses proceeds to buy $5000 $XYZ
+> firm must use total compensation from both sale and purchase as a percentage of $5,000
+
+#### exemptions
+- sxties requiring prospectus/offering circular delivery
+- primary issuances are sold at specific public offering px
+- IPOs
+- muni bonds
+- mutual fund shares
+
+### discretionary order/discretion not exercised
+- if client granted discretionary authority to their reg rep - must be indicated for each discretionary order
+- _discretion not exercised_ must be checked off iff a client consents to a specific trade recommendation before execution
+- _unsolicited_ means trade was client's idea
+- _solicited_ means trade was recommended by reg rep
+
+## Types of transactions
+- when order placed -- first determination to verify for order tkt is client's desired action/intent
+	- purchase
+	- long sale
+	- short sale
+- on purchase:
+	- client must designate whether trade is paid in full, or being paid for on margin (w/ borrowed funds)
+- on sale:
+	- client must designate owns stock being sold (or just has them borrowed)
+
+### margin requirement
+- short sales must be executed in a margin account
+- brokerage firms provide short sellers with stock borrowed from other margin customers
+	- other margin customers must provide permission for the firm to lend their securities to short sellers
+- as long as short seller's margin acct maintains minimum required equity, no set time by which short seller must repurchase borrowed shares
+- short seller must pay dividend to lender if cash dividend paid on borrowed stock
+
+#### covered vs. uncovered options writers
+- _covered call_ - seller of a call option who owns the underlying stock is the seller of a covered call
+	- client can deliver shares if contract exercised & she's assigned
+- uncovered call writing - riskier than covered writing - can only be executed in a margin account
+	- writer at risk of being required to buy shares at an unknown mkt px to complete delivery of shares to call buyer
+
+### types of orders
+- market order - executed at best available price at entry
+	- highest bid for mkt orders to sell
+	- lowest offer for mkt orders to buy
+- limit order - execute only at specified price or better
+- stop/loss order - contingent order - won't receive execution unless mkt rises/falls to a certain px
+	- _stop price_ - at which stop order is activated, becomes a mkt order to buy/sell
+	- sell-stop to protect a profit/limit loss on a long position
+	- buy-stop to protect a profit/limit loss on a short sale
+- stop-limit order - activated when mkt trades at/through preset stop px
+	- once activated, becomes a limit order
+		- order may never receive execution, but may receive preset limit px or better
+
+## order qualifiers
+- day order - executable from 9:30am -> 4:00pm, cancelled EOD if not executed during normal trading day
+- GTC or open order - remains in effect on BD's order book until executed/cancelled
+	- must be updated due to partial fills
+
+---
+
+# Settlement and corporate actions
+## Trading, clearing, and settlement
+- _clearing_ - agreement on details of trade (after order submission)
+- _settlement_ - swapping sxties for funds 
+	- DTCC facilitates settlement
+- _order entry_ - placing trade into system (via print or electronic)
+- _execution_ - occurrence of trade/fill in secondary mkt
+- _clearing_ - agreement by executing firms wrt details of trade
+- _settlement_ - swapping of securities for funds, completing transaction between firms
+- _custody and safekeeping_ - safeguarding of client/firm assets after settlement
+
+### Settlement Dates
+- after clearance of transaction (all parties involved agree to trade details)
+- _settlement date_ - date on which transaction _must_ be settled/completed between BDs (representing buyer/seller)
+- _regular way_ - varies based on sxty type, whree T = trade date
+	- corporate (stocks/bonds): T+2
+	- municipal sxties: T+2
+	- treasury sxties, options transactions: T+1
+- _special settlement_ - must be agreed to prior to transaction
+- _cash settlement_ - same day as trade
+- _seller's option_ - selling firm has addtl time to make good delivery
+_ _when issued_ - for authorized but not-yet issued sxties - settles when sxties available for delivery
+
+### Customer payment vs. settlement
+- Reg T requires customer payment for purchases in cash/margin accts to be made promptly
+	- generally, S+2 
+
+## Settlement methods
+- DTCC adjusts sxty positions/cash balances of contra-parties on its internal books
+- settlement is guaranteed by DTCC; no contra-party risk
+- _DTCC settlement_ - book-entry = when DTCC journals movement of sxty positions/monies b/w each clearing firm's account
+- _book-entry settlement_ - as opposed to physical delivery for settlement
+	- registered securities depository handles _depository-eligible securities_
+
+## Delivery of physical securities
+### Paper settlement
+- e.g. when client holding sxties is not DTCC-eligible
+- _good delivery_ - physical sxties in good order before delivery to buyer. aspects of good delivery:
+	- CUSIP numbers
+	- endorsements/assignments
+	- unit of delivery
+		- x100 for stock transactions
+		- x$1000 for registered bonds
+	- non-restricted securities
+		- selling firm must remove restricted legend
+		- only on consent of issuer's _opinion letter_
+
+## Corporate actions
+### Equities
+- _stock/forward splits_ - decreases px of stock
+	- co. issues more shares at a ratio to existing stock
+	- par value, mkt px adjust accordingly
+	- investor's value of holdings doesn't change
+	- ex-dividend date = business day following _payable date_
+	- stock trades w/ _due bill_ beginning on record date, continuing through payable date
+- _reverse stock splits_ - to raise price of stock
+- splits and dividends are not taxable to investor
+_ _tender offer_ - co./person's intent to buy stock at a fixed px above current mkt px
+	- e.g. for some or all outstanding shares
+	- investor can participate when:
+		- they own the stock, or an equivalent convert, warrant, or right
+		- have entered into unconditional contract to buy stock, but haven't yet received delivery
+		- own call option & have exercised it
+- investor who wants to exercise their rights typically tenders them to the issuer's transfer agent
+
+## Other corporate actions
+- M&A
+- spinoff
+
+## Forwarding official communications
+- securities can be held in
+	- _bearer form_, _book-entry form_, _street (BD) name_
+- when sxties held in street-name: customer is considered beneficial owner of sxties
+- _non-objecting beneficial owner_ - gives permission to BD to release name/address to issuer
+- _objecting beneficial owner_ - BD must keep personal information confidential, BD redistributes material from issuer (in bulk) to OBOs
+
+## Forms
+- _10-K_ - annual report (filing)
+- _10-Q_ - quarterly report
+- a member firm may charge issuers for forwarding materials to beneficial owners
+- a member firm may charge customers for services
+	- sxties safekeeping
+	- dividends/interest collection
+	- exchange/transfer of sxties
+- member firm cannot charge customer for forwarding proxies/other financial reports
+	- reimbursement typically collected from issuer directly
+
+---
+
+# Customer accounts
+## Cash accounts
+- brokerage acct - investor must pay full amount for sxties purchased
+- investor can't borrow funds from BD in order to pay for transactions in account
+- customers must pay for trades by settlement date, or risk incurring potential interest changes
+- Reg T: pay within S+2
+
+## Margin accounts
+- BD lends money to customer
+- BD holds purchased sxties as loan collateral
+- investors exposed to potential for large losses if sxties decline in value
+- Reg T:
+	- customers must deposit 50% of trade amt
+	- firm will lend other 50%
+	- customers may pay for their portion within S+2
+- _long_ - client borrows funds from BD to purchase shares
+- _short_ - client borrows shares from BD to execute short sale
+- customer's equity must be >=$2,000
+	- for _long_, customer's min. req. deposit = `min($2000, 100% of purchase price)`
+
+## Margin agreements
+- must be signed by client to open margin acct
+- _credit agreement_ - terms under which BD will finance customer's purchase, how interest is calculated & charged to acct
+- _hypothecation/pledge agreement_ - sxties purchased by customer will collateralize debt to BD
+	- BD may use customer's sxties to obtain a loan from a bank
+- _loan consent agreement_ - gives BD right to lend customer's sxties to other clients/BDs (for short-sale purposes)
+	- customer loses right to vote loaned stock
+
+### Margin disclosure statement
+- customer can lose more money than amt deposited in margin acct
+- firm can force sale of sxties/other assets in acct
+- firm can sell customer's sxties/other assets w/o contacting them
+- customer not entitled to choose which assets in their acct are liquidated/sold to meet a margin call
+- firm can increase its in-house maintenance margin req.s at any time
+- customer not entitled to extension of time for margin call
+
+## Options accounts
+- purchasers may lose their entire invesmtent if the option expires
+
+### Options agreement
+- Reg. rep. must obtain customer's info via Options Account Agreement
+- Customer must sign off on agreement of rules of trading option contracts within 15calendar days
+
+### Discretionary accts
+- _non-discretionary_ brokerage acct - customer decides which sxties to buy and sell
+	- customer must approve before execution, if RR makes a transaction recommendation
+- _discreiontary_ acct - customer gives trading authorization to a reg rep
+	- principal must accept discretionary authorization before it becomes effective
+	- discretionary orders must be approved by principal on day of trade
+
+## Limited vs. full POA
+- _limited trading auth_ - permits authorized person to place orders for the account, but not make withdrawals
+_ _full trading auth_ - permits authorized person to withdraw money/securities from account & place holders
+- _churning_ - excessive trading
+
+## Disclosing conflicts
+- permission needed when member firm is selling its own stock to public, and wants to place some of issue in customer's discretionary account
+
+## Time/price exception
+- if customer indicates:
+	- _asset_ - specific security/asset
+	- _action_ - whether it's to be bought/sold
+	- _amount_ - number of shares to be bought/sold
+- and leaves discretion only for time/px of execution, this is _nondiscretionary_ and written auth _not_ required
+- _not-held_ - orders providing time/px discretion
+
+## Fee-based vs. commission-based accts
+- _fee-based_ - customer charged annual fee for invstmt advice
+- _commission-based_ - customer pays commission on each transaction
+- _wrap-fee_ - customers charged a single bundled fee based on pctage of AUM
+
+## Educational accounts
+- contributions made on after-tax basis
+
+### Coverdell ESA
+- tax-advantaged method of savings money for a beneficiary's education
+	- max after-tax contribution = $2,000 per year to an acct for an age<18 beneficiary
+- non-deductible contribution, but money accumulates tax-deferred & withdrawals are tax-free if used to pay for education
+- self-directed investments
+
+### Section 529 college savings plans
+- savings vehicle offering federal/possibly state tax benefits
+- can be used for _qualified education expenses_ 
+	- state doesn't matter
+
+## Customer account registrations
+### Individual account
+- opened by and for one person
+	- only they can direct activity in the account, unless a third party has been authorized
+
+### Numbered/nominee accounts
+- firms must maintain records wrt beneficial owners of all accounts which
+	- use nominee names/account numbers in place of real name
+
+### Joint account
+- any joint owner can initiate activity
+- all owners must consent when signatures required, checks paid
+
+## Corporate/institutional accounts
+- _corporate resolution_ - reg rep assured person opening acct is authorized to do so (for a corporate acct)
+- if corp. wants to open a margin/options acct, a copy of corporate chjarter must be obtained
+- for { cash acct, margin, options } trading, corporate resolution always required, corporate charter always required
+	- _except_ for cash accouint trading: corporate charter not required
+
+## Partnership accounts
+- _partnership agreement_ specifies partners authorized to execute transactions on behalf of the partnership
+	- member firms must maintain a copy of the partnership agreement in acct file
+
+## Trust accounts
+- one person (trustee) manages assets for the benefit of the other (beneficiary)
+- trustee has legal control of trust assets, must manage it in the interest of the beneficiary
+- to open trust account, RR must obtain:
+	- evidence of trustee's authority to transact business in the acct
+	- copy of the trust agreement - legal document establishing the trust acct
+
+### Revocable & irrevocable trusts
+- _revocable_ - living/inter vivos
+	- changeable at any time
+- assets funded into trust are person's personal assets (for creditor/estate tax purposes)
+- _irrevocable_ - can't be changed after agreement signed
+	- commonly used to remove value of property from a person's estate, so that the property can't be taxed when the person dies
+
+## Custodial accounts
+- account opened for a minor's benefit
+- _Uniform gifts to minors act (UGMA)_/_Uniform transfers to minors act (UTMA)_ - irrevocable gift of cash/sxties given to a minor by an adult donor
+	- adult custodian acts as fiduciary for the minorA
+- taxes are due from donor if more than $15,000 donated per year
+- minor pays taxes on any income generated in the acct
+- if custodian lacks invstmt experience - custodian can authorize discretion to an RR/IAR
+- UGMA accounts cannot be margin accts
+
+## Retirement accounts
+### IRAs
+- funded by indiv. owners
+- customers should make full use of work-sponsored plans first
+	- they allow pre-tax contributions, have lower overall expenses than self-directed accts
+- anyone who earns income can contribute to traditional IRA
+	- earned income doesn't include interest, dividends, invstmts capital gains, annuities income, or rental income from real estate
+- income in an IRA is tax-deferred until withdrawn
+	- IRA account may not trade on margin
+	- must specify beneficiary
+- IRA maintainable at bank or brokerage firm
+	- institution acts as acct custodian
+- money contributed to IRA can't be invested in:
+	- life insurance
+	- collectibles
+- max contribution = `min($6000, 100% of earned income)` on annual basis
+	- age >= 50 -> $1000 addtl catchup available
+- deductibility of IRA contributions
+	- a single person not covered by an employer-sponsored retirement plan can deduct up to $6000 annual IRA contribution from taxable income
+- transfers and rollovers
+	- non-taxable
+	- rollovers must be completed within 60days, done once only every 12 months to avoid tax penalty
+- early withdrawal
+	- 10% penalty for age < 59.5
+	- amt of early withdrawal is added to investor's taxable income for that year
+
+### Required Minimum Distributions - RMDs
+- taking too long to begin taking withdrawals incurs a 50% tax penalty on expected amount
+	- levied after age=72
+
+## Roth IRAs
+- contributions are _not_ tax-deductible
+	- investors contribute with after-tax dollars
+- accumulated earnings can be withdrawn tax-free
+
+## Qualified retirement plans
+- ERISA - plan must adhere to
+	- eligibility requirements
+	- vesting
+- pre-tax contributions - no income tax paid on amounts contributed by employers until money is withdrawn from the plan
+- tax-deferred growth - investment earnings (dividends/interest) on all contributions are tax-deferred
+	- income tax not paid on earnings until money withdrawn from plan
+- non-discrimination
+
+## Types of plans
+### Profit-sharing
+- funded by employers
+- allow for discretionary annual contributions from company profits
+
+### 401(k)
+- benefits based on value in employee's acct at retirement
+- contributions made pre-tax (deductible)
+- earnings grow tax-deferred
+- maximum annual account contribution amount is determined by IRS (inflation adjusted)
+
+### Roth 401(k)
+- only permits non-deductible (after-tax) contributions
+- qualified withdrawals are excluded from federal tax
+	- employees don't have to pay taxes on capital gains, bond interest, or dividends
+
+---
+
+# Compliance considerations
+## New account documentation
+- KYC and PATRIOT act
+
+### Required information
+- customer's name, residence
+- of legal age
+- name of reg rep responsible for acct
+	- scope of responsibility for all reg reps, if >1
+	- doesn't apply to institutional acounts
+- signature of partner/officer/manager/principal who approves acct
+
+### Reasonable effort
+- must be made by reg rep to obtain:
+	- taxpayer ID number
+	- occupation/name/address of employer
+	- association w/ another member firm
+- doesn't apply to institutional accts or mutual fund-only accounts
+- customer signatures required for margin/option accounts
+
+### SEC recordkeeping requirements
+- for any BD's customer's/owner of an acct:
+	- name
+	- Tax ID #
+	- address
+	- telephone #
+	- DoB
+	- empoyment status, association w/ any BD
+	- annual income/net worth (excl. principal residence)
+	- invstmt objectives
+- trusted contact person
+- verification/ongoing updating of client information - every 36mo		- acct record / documentation of info collected must be sent to customer within 30days of acct open, or with client's next stmt
+- change of information
+	- member firm must send updated docs to customer within 30 days or witih client's next stmt
+
+## KYC, Suitability
+### Suitability
+- BDs have suitability obligation to their customers
+- Customer's invstmt profile includes:
+	- age
+	- other invstmts
+	- financial situation, needs
+	- tax status
+	- invstmt objectives/experience
+	- invstmt time horizon
+	- liquidity needs
+	- risk tolerance
+	- any other information obtained from customer
+- FINRA's 3 main suitability obligations:
+	1. reasonable basis
+	2. customer-specific
+	3. quantitative obligation
+- age-based concerns
+	- can be irrelevant for e.g. customer seeking liquidity for a short term obligation, capital preservation (safety of principal is overriding concern)
+- institutional suitability
+	- may vary based on nature of institution
+	1. firm/RR must have reasonable basis to believe institutional customer can evaluate invstmt risks independently
+	2. institutional customer must state it's exercising indpt judgment in evaluating recommendations
+	- only reasonable basis/quantitative obligations apply
+
+## AML, USA PATRIOT Act
+- _Bank Secrecy Act (BSA)_ - primary US AML law
+- money laundering takes places in:
+	1. placement (illegal cash put in flow of BD business)
+	2. layering (to avoid detection)
+	3. integration (to appear legitimate)
+
+### FinCEN's required reports
+- _Financial Crimes Enforcement Network_ (FINCEN) - part of US Treasury Dept.
+- requires BDs to file transactions reports under BSA
+- provides law enforcement agencies with info from reports for AML
+- BDs must file _Bank Secrecy Act Currency Transaction Reports_ (BCTRs)
+	- BCTR - filed for all cash transactions > $10,000
+	- executed by a single customer during one business day
+	- reporting req. also triggered if a customer places aggregate orders > $10,000
+- _structuring_ - customer executes several transactions in small dollar amounts to evade reporting req.s
+- _Suspicious Activity Report (SAR)_ - BDs must file when transaction/group of transactions >= $5000 and firm suspects:
+	- client violating federal criminal laws, or
+	- transaction involves funds related to illegal activity, or
+	- transaction designed to evade reporting req.s (structured transactions)
+	- transaction has no apparent business
+- SARs cannot be disclosed to the subject, only to federal law enforcement/sxties regulators
+
+### Mandatory AML compliance programs
+- BDs must establish a:
+	- compliance officer,
+	- policies/procedures to detect and deter ML,
+	- ongoing employee training program,
+	- indpt audit function
+- _stress test_ - indpt audit iff BD executes transactions for customers / holds customer accounts annually; else every 2 years
+- _customer identification program (CIP)_ - to verify identities
+- _Office of Foreign Assets Control (OFAC)_ - BDs can't do business with any OFAC listees
+	- BDs can't maintain correspondent accts for foreign shell banks
+- _customer verification_ - BDs must verify
+	- name
+	- DoB (individual)
+	- address
+	- identification number
+- _record retention_ - BD must maintain records of methods it used to verify a customer's identity for 5 years post account closure
+- _penalties_ - reg rep who facilitates ML can be sentenced to 20yrs in prison, max($500,000/transaction, 2x amt funds involved)
+
+## SEC Regulation SP
+- privacy of consumer financial information
+- _confidentiality req.s, safeguard req.s_ - BDs must adopt policies/procedures to safeguard customer records & info
+- _scope of info must be protected_ - Reg SP protects a customer's _non-public personal info_ - all PII
+- _privacy notice_ - firms must provide customers w/ privacy notice at time of acct opening, and annually after
+	- timing of notice depends on client's relationship w/ firm
+- _consumer_ - person in process of providing info to firm in connection w/ potential transaction
+	- firm must provide privacy notice before disclosing NPPI to unaffiliated 3rd party
+- _customer_ - person w/ an ongoing relationship w/ firm
+	- firm must provide privacy notice at time relationship first established, then follow up w/ updated notice annually
+	- _opt-out_ - privacy notice must disclose to consumers/customers the right to opt-out of having their information shared w/ unaffiliated third parties, and the process for opting out
+
+## Identity Theft Prevention - FTC Red Flags Rule
+- _Red Flags Rule_ - requires financial institutions to create/implement a written Identity Theft Prevention program
+- _use of stockholder info for solicitation_ - firms/RRs must protect client's info
+	- firm can generally not act as a trustee for a corporation AND use a shareholder list to cold-call/prospect in other matters
+
+## Client Notifications
+- on account open: BDs must provide client w/ info
+	- trade confirms
+	- statements
+	- miscellaneous mailings
+- SEC mandates frequency/timing of delivery of info
+- _acct statements and other notifications_ - BDs must provide to customers quarterly
+	- most firms provide monthly stmts for any acct in which activity has occurred
+- at minimum, acct stmt must contain:
+	- description of all sxty positions
+	- all money balances
+	- all acct activity since last stmt
+- acct activity includes:
+	- purchases
+	- sales
+	- interest credits/debits
+	- charges/credits
+	- dividend payments
+	- transfer activity
+	- sxties receipts/deliveries
+	- journal entries wrt sxties/funds in possession/control of BD
+- _confirmations stmts_ - must be given/sent at/before completion of any transaction (generally, settlement date)
+	- identity/px of sxty bought/sold
+	- qty
+	- date of transaction, and time of execution
+	- BD capacity
+		- agent for customer
+		- agent for another person
+		- agent for customer & another person (_cross_)
+		- principal for its own account
+	- commission/markup/markdown
+	- dollar px/yield info on debt sxties
+	- callability of sxties
+	- settlement date
+- _holding of client mail_
+	- providing client access to records equates to delivery
+
+## Regulation of communications
+### Correspondence
+- comm.s sent to one person, or
+- messages from a member firm to <=25 retail investors within 30day period
+
+### Institutional communications
+- made available only to institutional investors
+	- doesn't include a member firm's internal communications
+- institutional investors
+	- banks
+	- savings & loans
+	- insurance companies
+	- RIAs
+	- govt entities and their subdivisions
+	- employee benefit plans, other qualified plans w/ >=100 participants
+	- BDs and their reg reps
+	- individuals/entities w/ total assets >=$50mm
+	- persons acting solely on behalf of institutional investors
+- if member firm learns a BD is making institutional comms available to etail investors - then it must treat future comms to that institutional investor as retail comms
+
+### Retail communications
+- written/electronic communications made to >25 retail investors within 30-day period
+- include:
+	- television/radio/billboards
+	- magazines/newspapers
+	- certain websites/forums
+	- telemarketing/sales scripts
+	- independently prepared reprints
+
+### Approvals
+- correspondence & instl. communication msut be supervised/reviewed by BD, but don't require approval
+- retail comms require approval by qualified principal (supervisor) of firm
+- options/mutual fund communication must be filed w/ FINRA
+
+## Telemarketing
+- time-of-day/disclosure requirements don't apply to established business relationships:
+	- person transacted/has balance w/ BD or its clearing firm within 18mo of telemarketing call
+	- person has contacted/inquired w/ BD within 3mo before telemarketing call
+
+## Safekeeping of customer funds/sxties
+### Customer protection rule
+- ensures safekeeping of customer sxties/funds
+- BD must maintain _control of securities_ of all fully paid/excess margin sxties belonging to its customers
+	- sxties under direct control of the BD
+- _excess margin sxties_ - those sxties whose value exceeds 140% of debit (loan) balance of customer
+
+> e.g. customer owns stock worth $10,000
+> debit balance of $5,000
+> customer has excess margin sxties worth:
+> ($10,000 - (140% * $5,000)) = $3,000
+
+- if a customer sells sxties & fails to deliver sxties within 10 business days of settlement date: BD must buy in customer
+
+## Customer free credit balances
+- BDs must advise customers wrt their free credit balances on at least quarterly basis
+- _free credit balances_ - funds available to customers, but currently on deposit in their accts
+	- sales proceeds not yet reinvested / withdrawn
+
+## FINRA rules
+- member firms must disclose financial condition (balance sheet) to customers every 6mo and upon request
+- _blanket fidelity bond_ - insurance policy covering officers/employees/protection against loss for fidelity, sxties loss, counterfeit currency
+	- FINRA members joining SIPC must maintain this
+
+## Books and records
+- BD records must be kept easily accessible for the first 2yrs of their existence
+- _lifetime records_ - corporate/partnership docs
+- _six-year_ - blotters (records of original entry), municipal complaints, new account forms, PoAs
+- _four-year_ - complaint records, at the OSJ
+- _three-year_ - trade tickets, confirms, statements, forms U4/U5 and employee records, communications, trial balances
+
+---
+
+# Prohibited activities
+## Manipulation
+- Sxties Exchange Act of 1934
+- SEC Rule 10b1 - applies to sxties exempt from SEC registration
+- SEC Rule 10b3 - applies to BDs
+
+## Misrepresentations
+- SEC Rule 15c1-3: a BD can't represant that a firm's registrationw/ SEC implies SEC has approved the firm
+
+## Reg M
+- SEC restricts underwriters/issuers from aggressively bidding for/making purchases in secondary mkt of a stock currently being offered in a distribution
+	- _passive mkt_ - allowed; not driving up the px, for limited period around effective date
+- BDs/underwriters can't promise to repurchase IPO shares at below original sales px
+	- _laddering (tie-in arrangement)_ - inflation of aftermkt px of IPO, causing other mkt participants to buy/bid for sxty at higher pxs
+- BD can't encourage clients pre-IPO to provide info on px/qty they intend to purchase @ in aftermkt
+- stabilization permitted at/below the POP, since this protects new issue's px from dropping substantially
+
+## Market rumors
+- _pump-and-dump_ - rumor intended to drive px up
+	- spreading of false positive news, and selling before news can be confirmed
+
+## Front-running
+- Block trades can move mkt px of a sxty; BD can front-run by profiting before other mkt participants can act
+- BDs cannot execute order for a proprietary/BD-discretionary acct before a large impending block trade
+- BD with MNPI about block trade can't place orders on any related sxty in proprietary/BD-discretionary accts
+- holds until execution of entire block is public
+- _block trade_ - >=10,000 shares or options representing that many
+
+## Trading ahead of a research report
+- firm's trading dept buying/selling sxties just before the release of a report by firm's research dept
+- firm cannot alter/establish an inventory position of a sxty or corresponding derivative based on MNPI
+- _information barrier_ isolates research dept from trading dept
+
+## Churning
+- excessive trading in customer accounts, for addtl fees/commission
+
+## Marking-the-close/opening
+- transactions near open/close
+	- can allow BD to charge more for margin
+
+## Backing away
+- BDs must display firm quotes when acting as marketmakers
+- failing to honor quote: _backing away_ violation
+
+## Free riding
+- req'd amount not paid by Reg T payment date:
+	- (T+4) or (S+2)
+- BD must close out position & freeze acct for 90 days
+- _freeriding_:
+	- a customer purchases sxties in hopes of value rising
+	- before making payment, sxties rise in value
+	- customer directs firm to liquidate a portion of sxties, use sales proceeds to cover payment requirement
+	- customer's payment requirement satisfied w/o having deposited funds
+
+## Prohibited trading practices/other rules
+### Anti-intimidation/coordination
+- coordination of pxs/quotes, trades, trade reports w/ any other member
+- directing/requesting another member to alter a px/quote
+- engaging in any conduct to coerce another member/assoc'd person
+- retaliating/discourage competitive activities of another market maker/participant
+
+### Payments to influence mkt px
+- BDs can't pay any party to influence a sxty's mkt px
+
+### Best execution
+- BD must assist customers in obtaining best px on purchases/sales
+- reasonable diligence:
+	- mkt characteristics for sxty
+	- size/type of transaction
+	- #mkts checked
+	- accessibility of quotation
+	- terms/conditions of order
+
+### Time of trade disclosures
+- muni sxties dealer must disclose material information at/prior to time of trade
+
+### Interpositioning
+- insertion of 3rd party b/w customer & best market
+	- generally prohibited
+
+> e.g. BD receives customer order to buy 100shares XYZ at mkt
+> best offer of any MM is $40
+> BD interposes another firm who buys stock at $40, sells to member firm at $41; bypasses MM
+> member firm sells stock to customer at $42, firms each share 1pt extra markup charged to customer
+- doesn't apply to advantageous executions as a result of intervention
+
+### Trading ahead of customer orders (limit order protection)
+- firm must execute customer order within 60 seconds, if at same px and same side
+
+### Quoting a sxty in multiple mediums
+- same px must be displayed across mkts
+
+### Mutual fund trading rules
+- Minor transactions/strictly b/w portfolio affiliates /mutual funds under the same invstmt co. are permitted
+
+### Insider trading
+- purchase/sale of sxties using MNPI
+	- MNPI - info that, if released publicly would most likely affect stock/bond pxs
+- _front-running_ - trading by a firm/individual based on info regarding large client's potential buying/selling
+- corp. w/ material info must release it to public before any person can use info to complete a transaction
+
+### Tippers/tippees
+- both tippee and tipper have violated insider trading rules iff tippee knew info was confidential/MNPI
+	- violation of the Exchange Act
+
+### Insider trading legislation
+- ITSA 1984, ITSFEA 1988
+- ITSFEA - BDs must maintain policies to prevent misuse of MNPI
+	- procedures should include:
+		- system to monitor employees' personal trading & firm proprietary trading
+	- watch/restricted lists for sxties to which firm has insider info
+	- info barriers
+	- employee education wrt insider trading
+- info barrier procedures
+	- set of procedures to prevent transmission of confidential information from one dept. to another within a broker-dealer
+- restricted/watchlists
+	- restricted list must be distributed to employees
+	- watchlist known to legal/compliance depts
+
+### notifying compliance 
+- if sxties professional comes into possession of MNPI - they must notify their compliance dept
+
+### insider trading violations consequences
+- civil penalties
+	- up to 3x amount gained/loss avoided for insider trading
+	- supervisor of violator subject to civil penalties <= max($1mm, 3x profit gained/loss avoided due to violation)
+- criminal penalties
+	- by ITSFEA: fines up to $5mm, imprisonment for up to 20years per violation
+	- corp.s/non-natural persons: up to $25mm per violation
+	- criminal actions overseen by DOJ
+- bounties
+	- 10%-30% of money collected, for insider trading violations bounties
+
+## Other prohibited activities
+### New issue rule
+- IPOs may dramatically increase in px immediately in aftermkt
+	- after shares sold to initial investors
+- BD must make bona-fide offering of new issues to public
+	- can't withhold any shares for itself
+- BD can't sell a new issue to an account where restricted person has beneficial interest
+- _limited BD_ - restricts its business to an invstmt co./variable contract sxties/DPP
+	- reg. rep. employed by a firm that only sells mutual fund shares is exempt from this rule
+- Non-new issues (can be sold to restricted persons):
+	- secondary offerings
+	- private offerings (Reg D / 144A)
+	- debt offerings (convertible/non-invstmt-grade debt)
+	- preferreds, rights
+	- invstmt co. offerings
+	- exempt sxties (under Sxties Act of 1933)
+	- DPPs, REITs
+	- rights offerings, exchange offers, offerings made pursuant to an M&A transaction
+	- ADRs w/ pre-existing market outside US
+
+### Preconditions for sale
+- firm must meet this before selling a new issue to any acct
+- _affirmative statement_ - representation from account holder that account eligible to purchase new issues
+	- must be verified every 12mo
+
+### Prohibited sales
+- member firm can't offer/sell new issue to any account where _restricted person_ has a beneficial interest
+- member firm can't purchase new issue unless an exemption applies
+
+### Restricted persons
+- FINRA member firms / employees
+- family members iff:
+	1. employee gives material support (>25% of income / living in same household)
+	2. employee employed by member firm selling the new issue
+	3. employee can control allocation of new issue
+- finders/fiduciaries
+- portfolio managers purchasing for their own account
+	- people in a position to direct future business to the firm
+- persons who own a BD (>=10% of firm)
+
+### General exemptions
+- allow a new issue to be sold to accts:
+	- invstmt co.s
+	- general/separate acct of an insurance co.
+	- common trust fund
+	- de minimis restricted persons' ownership 10% <= of account
+	- publicly-traded entities engaging in public offering of ne wissues
+	- foreign ivnstmt co.s
+	- ERISA accts / state/local benefit plans / tax-exempt plans
+- undersubscribed offering for a BD
+	- underwriter can't sell shares of an undersubscribed issue to other restricted persons
+
+### Issuer-directed securities
+- exempt purchasers:
+	- issuer's parent co.
+	- subsidiary of issuer
+	- employees/directors of issuer
+- reg rep can purchase employing BD's equity IPO shares
+
+## Sharing in accounts/guarantees
+- FINRA/MSRB member firms' employees can't share in profits/losses in customes' accts unless
+	- employee made contribution to customer's account
+	- customer's prior consent given
+	- employing BD's prior consent given
+
+## Borrowing/lending practices with customers
+- reg reps can't borrow money from/lend money to a customer
+- allowable if any are true:
+	1. customer/reg rep are immediate family
+	2. customer is a financial institution regularly extending credit/providing loans
+	3. both persons registered w/ same firm
+	4. loan based on personal relationship b/w customer, reg rep
+	5. loan based on business relationship independent of customer-broker relationship
+
+## Financial exploitation - FINRA Rule 2165
+- _specified adult_ - anyone 65/older, or 18/older and impaired
+- _trusted contact person_ - assists firm in protecting customer's account, assets
+	- firm must make reasonable effort to get their contact info
+- _financial exploitation_ - wrongful appropriate of funds/sxties
+	- act/omission to obtain control over assets, or convert assets
+
+### Temporary hold
+- on disbursement, but not transactions
+- within T+2 of hold, member firm must notify
+- expires within 15days, extendable by 10days if exploitation did occur
+
+---
+
+# SRO Requirements for associated persons
+- _associated person_
+	- employee of a member firm
+	- person engaged in invstmt banking/sxties business controlled by member firm
+- registered person can't pay commissions/fees to a non-registered person at the RR's firm, but can recommend the person themselves
+
+## Accepting customer orders
+- _reg rep_s - sales personnel engaged in sxties business activities
+	- must pass S7
+- _principal_s - officers/supervisory personnel
+	- must pass S24
+
+## FINRA representative designations
+- _S6_ - invstmt co.s/variable contracts products
+- _S7_ - general sxties
+- _S22_ - DPPs
+- _S57_ - trader
+- _S79_ - invstmt banking
+- _S82_ - private sxties offerings
+- _S99_ - operations
+
+## MSRB representative designations
+- _S50_ - municipal advisor
+- _S52_ - muni sxties rep
+
+## Principal designations
+- _S9/10_ - general sxties sales supervisor
+- _S24_ - general sxties principal
+- _S26_ - invstmt co.s/variable contracts principal
+- _S27_ - financial/operations principal
+- _S51_ - muni fund sxties limited principal
+- _S53_ - muni sxties principal
+
+## Registration of representatives & principals
+- _Form U4_ - must be completed by anyone registered under SRO rules
+
+## Statutory disqualification
+- BD can't employ an individual subject to statutory disqualification unless FINRA provides specific permission
+- denial of registration can be based on:
+	- expulsion from an SRO
+	- registration denial/revocation from SEC/CFTC/other regulatory agency
+	- failing to supervise a subordinate who violates rules
+	- being convicted within last 10 years of an invstmt felony/misdemeanor
+	- intentional submission of false information/omission of pertinent facts
+- _heightened_ supervision of person required if firm employes a statutorily disqualified person
+
+## Blue-sky rules
+- RRs must take S63/S65/S66 in most states
+- sxties sold to customers must be registered (blue-skyed) under state law, or be exempt from registration
+
+### Continuing education
+- _regulatory element_ - created/administered by regulators
+- _firm element_ - responsibility of each BD
+
+#### Regulatory element
+- required at 2yr anniversary of initial sxties registration; and every 3yrs thereafter
+- FINRA notifies BD >=30days in advance of RR's appropriate anniversary date
+	- RR has 120days from anniversary date to complete Regulatory Element training
+	- inactive registration -> prohibition from performing activity/compensation for anything requiring sxties registration
+
+#### Firm element
+- _covered person_ - reg rep and supervisor, who:
+	- have direct contact w/ customers in conduct of member firm's sxties sales, trading, or invstmt banking activities
+- once per year - firms must demonstrate to regulators that training of covered personnel is covered
+- training includes:
+	- general invstmt features/associated risks
+	- suitability/sales practice considerations
+	- applicable regulatory requirements
